@@ -1,0 +1,1 @@
+functional programming = tidak mudah untuk mengubah nilai, bahkan tidak bisa
